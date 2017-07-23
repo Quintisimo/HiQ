@@ -1,14 +1,15 @@
-section.games
-  .video-summary
-    iframe(width='740', height='415', src='https://www.youtube.com/embed/pYC44YPb_5k?rel=0&autoplay=1;controls=0&amp;showinfo=0', frameborder='0' allowfullscreen)
-    .summary
-      h1 Game Details
-      h2 Year: 2016
-      h2 Genre: FPS
-      h2 Team Size: 6
-      h2 Avaliable to play at QUT eSports
-  
-  .game-details
-    h1 About the game
-    p Overwatch is a team-oriented multiplayer online first-person shooter video game created by Blizzard Entertainment. Overwatch has a unique lore and timeline, with all the characters in the game having unique storylines and interactions with each other. Each character has a distinct personality and varying play styles, which allows different team compositions to be created.
-    p In each game, each team has 6 people playing different characters in order to defend or attack an objective. These objectives differ from map to map. Assault maps have two points that the attacking team must capture in order to win the game, with the defending team trying to stop them under a time limit. Escort objective maps usually requires the attacking team to deliver a payload to a certain point before time runs out, while the defending team tries to stop them. Control maps require each team to capture and then control the point until the percentage indicator reaches 100%.
+each game in games
+  section.games
+    .video-summary
+      iframe(width='740', height='415', src='#{ game.video }', frameborder='0', allowfullscreen, volume='0')
+      .summary
+        h1 Game Details
+        h2 Year: #{ game.year }
+        h2 Genre: #{ game.genre }
+        h2 Team Size: #{ game.team }
+        h2 Avaliable to play at QUT eSports
+    
+    .game-details
+      h1 About the game
+      p #{ game.about }
+      p #{ game.strategy }
