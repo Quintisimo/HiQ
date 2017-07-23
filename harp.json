@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "logos": {
+      "Overwatch": "../images/logos/overwatch.png",
+      "CS:GO": "../images/logos/csgo.png",
+      "League of Legends": "../images/logos/league of legends.png",
+      "Dota 2": "../images/logos/dota 2.png",
+      "Hearthstone": "../images/logos/hearthstone.png",
+      "Rocket League": "../images/logos/rocket league.png"
+    }
+  }
+}
