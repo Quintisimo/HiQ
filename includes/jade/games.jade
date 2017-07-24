@@ -1,7 +1,7 @@
-each game in games
-  section.games
+each game, index in games
+  section.games(class='#{ index }')
     .video-summary
-      iframe(width='740', height='415', src='#{ game.video }', frameborder='0', allowfullscreen, volume='0')
+      iframe(width='740', height='416', src='#{ game.video }', frameborder='0', allowfullscreen, volume='0')
       .summary
         h1 Game Details
         h2 Year: #{ game.year }
