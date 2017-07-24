@@ -2,6 +2,7 @@ each game, index in games
   section.games(class='#{ index }')
     .video-summary
       iframe(width='740', height='416', src='#{ game.video }', frameborder='0', allowfullscreen, volume='0')
+      .youtube-cover
       .summary
         h1 Game Details
         h2 Year: #{ game.year }

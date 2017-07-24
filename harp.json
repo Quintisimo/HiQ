@@ -5,7 +5,7 @@
         "image": "../images/logos/overwatch.png",
         "video": "https://www.youtube.com/embed/pYC44YPb_5k?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
         "year": "2016",
-        "genre": "First Person Shooter",
+        "genre": "FPS",
         "team": "6",
         "about": "Overwatch is a team-oriented multiplayer online first-person shooter video game created by Blizzard Entertainment. Overwatch has a unique lore and timeline, with all the characters in the game having unique storylines and interactions with each other. Each character has a distinct personality and varying play styles, which allows different team compositions to be created.",
         "strategy": "In each game, each team has 6 people playing different characters in order to defend or attack an objective. These objectives differ from map to map. Assault maps have two points that the attacking team must capture in order to win the game, with the defending team trying to stop them under a time limit. Escort objective maps usually requires the attacking team to deliver a payload to a certain point before time runs out, while the defending team tries to stop them. Control maps require each team to capture and then control the point until the percentage indicator reaches 100%."
@@ -14,7 +14,7 @@
         "image": "../images/logos/csgo.png",
         "video": "https://www.youtube.com/embed/edYCtaNueQY?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
         "year": "2012",
-        "genre": "First Person Shooter",
+        "genre": "FPS",
         "team": "5",
         "about": "Counter Strike: Global Offensive is a team based first-person shooter game created by Valve and run through Steam. It has a high skill cap and is a require great mechanical skill.",
         "strategy": "Each team has 5 players, with one team being 'Terrorist' and the other being 'Counter-Terrorist'. The objective of the Terrorist team is to plant a bomb at one of the two bomb sites, more commonly referred to as A or B. The Counter-Terrorist team must prevent the Terrorist team from planting the bomb, and if the bomb is planted then the Counter-Terrorist team must defuse the bomb before the time in the round runs out. Each team can choose a variety of guns at the start of each round, as well as being able to buy supplementary items such as flashbang grenades and explosive grenades. Counter-Terrorists are able to buy bomb defusal kits with in game currency earned during the game to reduce the amount of time taken to defuse a bomb. In a competitive match, the victorious team is the team which wins 16 rounds first, with each round being relatively short."
@@ -23,7 +23,7 @@
         "image": "../images/logos/league of legends.png",
         "video": "https://www.youtube.com/embed/76cG7bcmmqM?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
         "year": "2009",
-        "genre": "Real Time Strategy",
+        "genre": "MOBA",
         "team": "5",
         "about": "League of Legends is a multiplayer online battle arena which incorporates real-time strategy and roleplaying elements created by Riot Games. In it, each character has unique lore and a unique storyline which connects to other characters in the game. Additionally, it has its own universe called Runeterra, with different characters coming from different parts of Runeterra such as Demacia and Noxus.",
         "strategy": "Every member of the team chooses a single character to play for the entirety of the game.  There are many different classes to choose from in League of Legends, such as mage, assassin, tank, support and marksman. Each class has a different role within the team. For example, the support class is usually tasked with protecting and helping the main damage dealers of the team. Characters are able to level up and gain abilities by killing minions, which also provides in-game gold to purchase items that increase character attributes such as damage and armour. Neutral monsters which give different buffs are able to be slain. The game is won by destroying the enemy team's structures such as towers, then destroying the enemy team's nexus which is placed at their base."
@@ -32,7 +32,7 @@
         "image": "../images/logos/dota 2.png",
         "video": "https://www.youtube.com/embed/tmn5HXW-3Wk?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
         "year": "2013",
-        "genre": "Real Time Strategy",
+        "genre": "MOBA",
         "team": "5",
         "about": "Defence of the Ancients 2 or DotA 2 is a free to play multiplayer online battle arena which incorporates real-time strategy. There are over 100 playable characters known as 'heroes' which the player chooses at the beginning of the match. It is a widely popular video game, with a widespread competitive scene with prize pools totalling millions of US dollars.",
         "strategy": "Each game of DotA 2 has 2 teams with 5 people on each team. There are two main classes which are carries and supports. The carries are the main damage dealers while the supports are more useful for their functionality and utility. Neutral monsters are able to be slain for additional buffs, such as Roshan. Killing Roshan grants the team that killed it increased health and health regeneration as well as bonus gold. The main objective of every DotA2 match is to destroy the enemy team's 'Ancient', which is found in the base of each team and is defended by two turrets."
