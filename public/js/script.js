@@ -4,6 +4,7 @@
       var $this = $(this),
       className = 'section.' + $this.attr('class');
       $('section.games').css('display', 'none');
+      $('a').removeClass('is-selected');
       $this.addClass('is-selected');
       $('body').find(className).css('display', 'block');
       setTimeout(function() {
