@@ -1,0 +1,18 @@
+"csgo": {
+  "image": "../images/logos/csgo.png",
+  "video": "https://www.youtube.com/embed/edYCtaNueQY?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
+  "year": "2012",
+  "genre": "FPS",
+  "team": "5",
+  "about": "Counter Strike: Global Offensive is a team based first-person shooter game created by Valve and run through Steam. It has a high skill cap and is a require great mechanical skill.",
+  "strategy": "Each team has 5 players, with one team being 'Terrorist' and the other being 'Counter-Terrorist'. The objective of the Terrorist team is to plant a bomb at one of the two bomb sites, more commonly referred to as A or B. The Counter-Terrorist team must prevent the Terrorist team from planting the bomb, and if the bomb is planted then the Counter-Terrorist team must defuse the bomb before the time in the round runs out. Each team can choose a variety of guns at the start of each round, as well as being able to buy supplementary items such as flash-bang grenades and explosive grenades. Counter-Terrorists are able to buy bomb defusal kits with in game currency earned during the game to reduce the amount of time taken to defuse a bomb. In a competitive match, the victorious team is the team which wins 16 rounds first, with each round being relatively short."
+},
+"hearthstone": {
+  "image": "../images/logos/hearthstone.png",
+  "video": "https://www.youtube.com/embed/QdXl3QtutQI?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
+  "year": "2014",
+  "genre": "Collectible card game",
+  "team": "1",
+  "about": "Hearthstone is a free-to-play strategy card game from Blizzard Entertainment. Although the characters in Hearthstone are from Warcraft (also a game by Blizzard Entertainment), it is completely beginner friendly with tutorials and explanations for each card and character.",
+  "strategy": "Each game of Hearthstone uses a deck of cards that the player has constructed using cards that they receive in-game. Each card has attack and defense points, which are used to either attack or defend the hit points of the player. Different cards have different uses, such as spell cards and 'Secret' cards which are hidden effects that are triggered when specific events occurs. Additionally, each card has a tooltip which explains what the card does and what effect it has."
+},
