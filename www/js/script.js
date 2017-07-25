@@ -3,14 +3,14 @@
     $('a').click(function(){
       var $this = $(this),
       className = 'section.' + $this.attr('class');
-      $('section.games').css('display', 'none');
+      $('section.games').fadeOut();
       $('a').removeClass('is-selected');
       $this.addClass('is-selected');
-      $('body').find(className).css('display', 'block');
+      $('body').find(className).fadeIn();
       setTimeout(function() {
-        $('body').find(className).css('display', 'none');
+        $('body').find(className).fadeOut();
         $this.removeClass('is-selected');
-      }, 5000);
+      }, 420000);
     });
   });
 }(jQuery));
