@@ -3,7 +3,7 @@
     "games": {
       "overwatch": {
         "image": "../images/logos/overwatch.png",
-        "video": "https://www.youtube.com/embed/pYC44YPb_5k?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
+        "video": "../videos/overwatch.mp4",
         "year": "2016",
         "genre": "FPS",
         "team": "6",
@@ -12,7 +12,7 @@
       },
       "leagueoflegends": {
         "image": "../images/logos/league of legends.png",
-        "video": "https://www.youtube.com/embed/76cG7bcmmqM?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
+        "video": "../videos/league of legends.mp4",
         "year": "2009",
         "genre": "MOBA",
         "team": "5",
@@ -21,7 +21,7 @@
       },
       "dota2": {
         "image": "../images/logos/dota 2.png",
-        "video": "https://www.youtube.com/embed/tmn5HXW-3Wk?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
+        "video": "../videos/dota 2.mp4",
         "year": "2013",
         "genre": "MOBA",
         "team": "5",
@@ -30,7 +30,7 @@
       },
       "rocketleague": {
         "image": "../images/logos/rocket league.png",
-        "video": "https://www.youtube.com/embed/Vawwy2eu5sA?rel=0&amp&autoplay=1&loop=1&mute=1;controls=0&amp;showinfo=0",
+        "video": "../videos/rocket league.mp4",
         "year": "2015",
         "genre": "Sports Game",
         "team": "3",
