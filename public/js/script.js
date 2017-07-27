@@ -1,6 +1,6 @@
 (function($) {
   $(document).ready(function() {
-    $('img').click(function(){
+    $('a').click(function(){
       var $this = $(this),
       className = 'section.' + $this.attr('class');
       $('section').fadeOut();

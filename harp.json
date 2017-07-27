@@ -9,6 +9,7 @@
         "about": "QUT eSports is Australia's first university endorsed eSports program. Our mission is to provide a pathway from amateur to professional participation in the Australian eSports scene. We have a modest eSports Arena on campus at Gardens point. We support CS:GO, Overwatch, League of Legends, HearthStone, DotA 2 and Rocket League as well as our student communities for each game."
       },
       "overwatch": {
+        "name": "Overwatch",
         "image": "images/logos/overwatch.png",
         "video": "videos/overwatch.mp4",
         "year": "2016",
@@ -18,6 +19,7 @@
         "strategy": "In each game, each team has 6 people playing different characters in order to defend or attack an objective. These objectives differ from map to map. Assault maps have two points that the attacking team must capture in order to win the game, with the defending team trying to stop them under a time limit. Escort objective maps usually requires the attacking team to deliver a payload to a certain point before time runs out, while the defending team tries to stop them. Control maps require each team to capture and then control the point until the percentage indicator reaches 100%."
       },
       "leagueoflegends": {
+        "name": "League of Legends",
         "image": "images/logos/league of legends.png",
         "video": "videos/league of legends.mp4",
         "year": "2009",
@@ -27,6 +29,7 @@
         "strategy": "Every member of the team chooses a single character to play for the entirety of the game.  There are many different classes to choose from in League of Legends, such as mage, assassin, tank, support and marksman. Each class has a different role within the team. For example, the support class is usually tasked with protecting and helping the main damage dealers of the team. Characters are able to level up and gain abilities by killing minions, which also provides in-game gold to purchase items that increase character attributes such as damage and armour. Neutral monsters which give different buffs are able to be slain. The game is won by destroying the enemy team's structures such as towers, then destroying the enemy team's nexus which is placed at their base."
       },
       "dota2": {
+        "name": "DotA 2",
         "image": "images/logos/dota 2.png",
         "video": "videos/dota 2.mp4",
         "year": "2013",
@@ -36,6 +39,7 @@
         "strategy": "Each game of DotA 2 has 2 teams with 5 people on each team. There are two main classes which are carries and supports. The carries are the main damage dealers while the supports are more useful for their functionality and utility. Neutral monsters are able to be slain for additional buffs, such as Roshan. Killing Roshan grants the team that killed it increased health and health regeneration as well as bonus gold. The main objective of every DotA2 match is to destroy the enemy team's 'Ancient', which is found in the base of each team and is defended by two turrets."
       },
       "rocketleague": {
+        "name": "Rocket League",
         "image": "images/logos/rocket league.png",
         "video": "videos/rocket league.mp4",
         "year": "2015",
