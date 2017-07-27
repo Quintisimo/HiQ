@@ -1,6 +1,6 @@
 "csgo": {
   "image": "images/logos/csgo.png",
-  "video": "videos/csgo.mp4",
+  "video": "https://www.youtube-nocookie.com/embed/edYCtaNueQY?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
   "year": "2012",
   "genre": "FPS",
   "team": "5",
@@ -9,7 +9,7 @@
 },
 "hearthstone": {
   "image": "images/logos/hearthstone.png",
-  "video": "videos/hearthstone.mp4",
+  "video": "https://www.youtube-nocookie.com/embed/QdXl3QtutQI?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
   "year": "2014",
   "genre": "Collectible Card Game",
   "team": "1",

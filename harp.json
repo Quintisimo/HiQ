@@ -2,7 +2,7 @@
   "globals": {
     "games": {
       "qutesports": {
-        "video": "videos/qutesports.mp4",
+        "video": "",
         "graphics": "GTX 1050",
         "computers": "14",
         "location": "X-224",
@@ -11,7 +11,7 @@
       "overwatch": {
         "name": "Overwatch",
         "image": "images/logos/overwatch.png",
-        "video": "videos/overwatch.mp4",
+        "video": "https://www.youtube-nocookie.com/embed/UEYp1RTvllM?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
         "year": "2016",
         "genre": "FPS",
         "team": "6",
@@ -21,7 +21,7 @@
       "leagueoflegends": {
         "name": "League of Legends",
         "image": "images/logos/league of legends.png",
-        "video": "videos/league of legends.mp4",
+        "video": "https://www.youtube-nocookie.com/embed/76cG7bcmmqM?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
         "year": "2009",
         "genre": "MOBA",
         "team": "5",
@@ -31,7 +31,7 @@
       "dota2": {
         "name": "DotA 2",
         "image": "images/logos/dota 2.png",
-        "video": "videos/dota 2.mp4",
+        "video": "https://www.youtube-nocookie.com/embed/tmn5HXW-3Wk?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
         "year": "2013",
         "genre": "MOBA",
         "team": "5",
@@ -41,7 +41,7 @@
       "rocketleague": {
         "name": "Rocket League",
         "image": "images/logos/rocket league.png",
-        "video": "videos/rocket league.mp4",
+        "video": "https://www.youtube-nocookie.com/embed/Vawwy2eu5sA?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
         "year": "2015",
         "genre": "Sports Game",
         "team": "3",

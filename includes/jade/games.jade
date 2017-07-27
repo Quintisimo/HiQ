@@ -2,8 +2,7 @@ each game, index in games
   if index == 'qutesports'
     section(class='#{ index }')
       .video-summary
-        video(autoplay, loop, muted)
-          source(src='#{ game.video }', type='video/mp4')
+        iframe(width='740' height='400' src='#{ game.video }' frameborder='0' allowfullscreen)
         .summary
           h1 Game Details
           h2 Number of Computers: #{ game.computers }
@@ -17,8 +16,7 @@ each game, index in games
   else
     section.games(class='#{ index }')
       .video-summary
-        video(autoplay, loop, muted)
-          source(src='#{ game.video }', type='video/mp4')
+        iframe(width='740' height='400' src='#{ game.video }' frameborder='0' allowfullscreen)
         .summary
           h1 Game Details
           h2 Year: #{ game.year }
