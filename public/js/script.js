@@ -8,7 +8,7 @@
       setTimeout(function() {
           $('section.games').fadeOut();
           $('section.qutesports').fadeIn();
-      }, 5000);
+      }, 420000);
     });
   });
 }(jQuery));
