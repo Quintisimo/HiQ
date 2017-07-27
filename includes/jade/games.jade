@@ -1,17 +1,32 @@
 each game, index in games
-  section.games(class='#{ index }')
-    .video-summary
-      //iframe(width='740', height='416', src='#{ game.video }', frameborder='0', allowfullscreen, volume='0')
-      video(autoplay, loop, muted)
-        source(src='#{ game.video }', type='video/mp4')
-      .summary
-        h1 Game Details
-        h2 Year: #{ game.year }
-        h2 Genre: #{ game.genre }
-        h2 Team Size: #{ game.team }
-        h2 Avaliable to play at QUT eSports
-    
-    .game-details
-      h1 About the game
-      p #{ game.about }
-      p #{ game.strategy }
+  if index == 'qutesports'
+    section(class='#{ index }')
+      .video-summary
+        video(autoplay, loop, muted)
+          source(src='#{ game.video }', type='video/mp4')
+        .summary
+          h1 Game Details
+          h2 Number of Computers: #{ game.computers }
+          h2 Graphics Cards: #{ game.graphics }
+          h2 Location: #{ game.location }
+          h2 Avaliable to play at QUT eSports
+      
+      .game-details
+        h1 About the game
+        p #{ game.about }
+  else
+    section.games(class='#{ index }')
+      .video-summary
+        video(autoplay, loop, muted)
+          source(src='#{ game.video }', type='video/mp4')
+        .summary
+          h1 Game Details
+          h2 Year: #{ game.year }
+          h2 Genre: #{ game.genre }
+          h2 Team Size: #{ game.team }
+          h2 Avaliable to play at QUT eSports
+      
+      .game-details
+        h1 About the game
+        p #{ game.about }
+        p #{ game.strategy }

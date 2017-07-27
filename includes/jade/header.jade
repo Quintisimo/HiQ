@@ -1,3 +1,5 @@
 header
   each game, index in games
-    img(src='#{ game.image }', class='#{ index }')
+    if index == 'qutesports'
+    else
+      img(src='#{ game.image }', class='#{ index }')

@@ -3,11 +3,12 @@
     $('img').click(function(){
       var $this = $(this),
       className = 'section.' + $this.attr('class');
-      $('section.games').fadeOut();
+      $('section').fadeOut();
       $('body').find(className).fadeIn();
       setTimeout(function() {
-        $('body').find(className).fadeOut();
-      }, 420000);
+          $('section.games').fadeOut();
+          $('section.qutesports').fadeIn();
+      }, 5000);
     });
   });
 }(jQuery));
