@@ -2,7 +2,7 @@
   "globals": {
     "games": {
       "qutesports": {
-        "video": "",
+        "video": "https://www.youtube-nocookie.com/embed/bJAyT_4FZpk?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
         "graphics": "GTX 1050",
         "computers": "14",
         "location": "X-224",
