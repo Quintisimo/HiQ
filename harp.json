@@ -2,17 +2,15 @@
   "globals": {
     "games": {
       "qutesports": {
-        "video": "https://www.youtube-nocookie.com/embed/bJAyT_4FZpk?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
-        "graphics": "GTX 1050",
+        "video": "https://www.youtube-nocookie.com/embed/MEGereDezy0?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
+        "graphics": "GTX 1050 Ti",
         "computers": "14",
-        "location": "X-224",
         "about": "QUT eSports is Australia's first university endorsed eSports program. Our mission is to provide a pathway from amateur to professional participation in the Australian eSports scene. We have a modest eSports Arena on campus at Gardens point. We support CS:GO, Overwatch, League of Legends, HearthStone, DotA 2 and Rocket League as well as our student communities for each game."
       },
       "overwatch": {
         "name": "Overwatch",
         "image": "images/logos/overwatch.png",
         "video": "https://www.youtube-nocookie.com/embed/UEYp1RTvllM?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
-        "year": "2016",
         "genre": "FPS",
         "team": "6",
         "about": "Overwatch is a team-oriented multiplayer online first-person shooter video game created by Blizzard Entertainment. Overwatch has a unique lore and timeline, with all the characters in the game having unique storylines and interactions with each other. Each character has a distinct personality and varying play styles, which allows different team compositions to be created.",
@@ -22,7 +20,6 @@
         "name": "League of Legends",
         "image": "images/logos/league of legends.png",
         "video": "https://www.youtube-nocookie.com/embed/76cG7bcmmqM?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
-        "year": "2009",
         "genre": "MOBA",
         "team": "5",
         "about": "League of Legends is a multiplayer online battle arena which incorporates real-time strategy and roleplaying elements created by Riot Games. In it, each character has unique lore and a unique storyline which connects to other characters in the game. Additionally, it has its own universe called Runeterra, with different characters coming from different parts of Runeterra such as Demacia and Noxus.",
@@ -32,7 +29,6 @@
         "name": "DotA 2",
         "image": "images/logos/dota 2.png",
         "video": "https://www.youtube-nocookie.com/embed/tmn5HXW-3Wk?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
-        "year": "2013",
         "genre": "MOBA",
         "team": "5",
         "about": "Defense of the Ancients 2 or DotA 2 is a free to play multiplayer online battle arena which incorporates real-time strategy. There are over 100 playable characters known as 'heroes' which the player chooses at the beginning of the match. It is a widely popular video game, with a widespread competitive scene with prize pools totalling millions of US dollars.",
@@ -42,7 +38,6 @@
         "name": "Rocket League",
         "image": "images/logos/rocket league.png",
         "video": "https://www.youtube-nocookie.com/embed/Vawwy2eu5sA?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
-        "year": "2015",
         "genre": "Sports Game",
         "team": "3",
         "about": "Rocket League is a team based game in which players use rocket-powered cars to play soccer. Each team consists of one to four players with the ultimate objective of scoring more goals than the opposing team. Due to it’s popularity and competitive nature, Rocket League has been adopted as an eSport, in which professional players participating through ESL and Major League Gaming matches, along with Psyonix's own Rocket League Championship Series (RLCS).",
