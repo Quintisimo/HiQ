@@ -8,5 +8,39 @@ html
     script(src='js/script.js' type='text/javascript')
     meta(name='viewport', content='width = device-width, initial-scale = 1')
   body
-    include ../includes/jade/header
-    include ../includes/jade/games
+    header
+      each game, index in games
+        if index != 'qutesports'
+          a(class='#{ index }')
+            img(src='#{ game.image }')
+            span #{ game.name }
+    
+    // Loops thorugh each games in harp.json
+    each game, index in games
+      if index == 'qutesports'
+        section(class='#{ index }')
+          .video-summary
+            .summary
+              h1 Arena Details
+              h2 Number of Computers: #{ game.computers }
+              h2 Graphics Cards: #{ game.graphics }
+              h2 Training: Mon-Fri from 4-6pm 
+              h2 Location: X-224
+            iframe(width='740' height='415' src='#{ game.video }' frameborder='0' allowfullscreen)
+          .game-details
+            h1 About the game
+            p #{ game.about }
+      else
+        section.games(class='#{ index }')
+          .video-summary
+            .summary
+              h1 Game Details
+              h2 Genre: #{ game.genre }
+              h2 Team Size: #{ game.team }
+              h2 Avaliable to play at QUT eSports
+              h2 Location: X-224
+            iframe(width='740' height='415' src='#{ game.video }' frameborder='0' allowfullscreen)
+          .game-details
+            h1 About the game
+            p #{ game.about }
+            p #{ game.strategy }
