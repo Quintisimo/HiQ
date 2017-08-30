@@ -1,5 +1,5 @@
 "csgo": {
-  "image": "images/logos/csgo.png",
+  "image": "img/logos/csgo.png",
   "video": "https://www.youtube-nocookie.com/embed/edYCtaNueQY?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
   "year": "2012",
   "genre": "FPS",
@@ -8,7 +8,7 @@
   "strategy": "Each team has 5 players, with one team being 'Terrorist' and the other being 'Counter-Terrorist'. The objective of the Terrorist team is to plant a bomb at one of the two bomb sites, more commonly referred to as A or B. The Counter-Terrorist team must prevent the Terrorist team from planting the bomb, and if the bomb is planted then the Counter-Terrorist team must defuse the bomb before the time in the round runs out. Each team can choose a variety of guns at the start of each round, as well as being able to buy supplementary items such as flash-bang grenades and explosive grenades. Counter-Terrorists are able to buy bomb defusal kits with in game currency earned during the game to reduce the amount of time taken to defuse a bomb. In a competitive match, the victorious team is the team which wins 16 rounds first, with each round being relatively short."
 },
 "hearthstone": {
-  "image": "images/logos/hearthstone.png",
+  "image": "img/logos/hearthstone.png",
   "video": "https://www.youtube-nocookie.com/embed/QdXl3QtutQI?rel=0&amp&mute=1;controls=0&amp;showinfo=0",
   "year": "2014",
   "genre": "Collectible Card Game",
