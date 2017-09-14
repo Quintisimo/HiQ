@@ -4,6 +4,7 @@ qutesports:
   computers: 14
   about: QUT eSports is Australia's first university endorsed eSports program. Our mission is to provide a pathway from amateur to professional participation in the Australian eSports scene. We have a modest eSports Arena on campus at Gardens point. We support CS:GO Overwatch League of Legends HearthStone DotA 2 and Rocket League as well as our student communities for each game.
 
+# Games that are displayed in the sidebar
 overwatch:
   name: Overwatch
   image: img/logos/overwatch.png
@@ -30,6 +31,16 @@ dota2:
   team: 5
   about: Defense of the Ancients 2 or DotA 2 is a free to play multiplayer online battle arena which incorporates real-time strategy. There are over 100 playable characters known as 'heroes' which the player chooses at the beginning of the match. It is a widely popular video game with a widespread competitive scene with prize pools totalling millions of US dollars.
   strategy: Each game of DotA 2 has 2 teams with 5 people on each team. There are two main classes which are carries and supports. The carries are the main damage dealers while the supports are more useful for their functionality and utility. Neutral monsters are able to be slain for additional buffs such as Roshan. Killing Roshan grants the team that killed it increased health and health regeneration as well as bonus gold. The main objective of every DotA2 match is to destroy the enemy team's 'Ancient' which is found in the base of each team and is defended by two turrets.
+
+hearthstone:
+  name: Hearthstone
+  image: img/logos/hearthstone.png
+  video: https://www.youtube-nocookie.com/embed/QdXl3QtutQI?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  year: 2014
+  genre: Collectible Card Game
+  team: 1
+  about: Hearthstone is a free-to-play strategy card game from Blizzard Entertainment. Although the characters in Hearthstone are from Warcraft (also a game by Blizzard Entertainment) it is completely beginner friendly with tutorials and explanations for each card and character.
+  strategy: Each game of Hearthstone uses a deck of cards that the player has constructed using cards that they receive in-game. Each card has attack and defense points which are used to either attack or defend the hit points of the player. Different cards have different uses such as spell cards and 'Secret' cards which are hidden effects that are triggered when specific events occurs. Additionally each card has a tooltip which explains what the card does and what effect it has.
 
 rocketleague:
   name: Rocket League
