@@ -10,14 +10,14 @@ html
 
   body
     header
-      each game, index in records.data.games
+      each game, index in data.games
         if index != 'qutesports'
           a(class=index)
             img(src=game.image)
             span=game.name
     
-    // Loops thorugh each games in data.json
-    each game, index in records.data.games
+    // Loops thorugh each games in games.yaml
+    each game, index in data.games
       if index == 'qutesports'
         section(class=index)
           .video-summary

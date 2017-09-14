@@ -1,0 +1,41 @@
+qutesports:
+  video: https://www.youtube-nocookie.com/embed/MEGereDezy0?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  graphics: GTX 1050 Ti
+  computers: 14
+  about: QUT eSports is Australia's first university endorsed eSports program. Our mission is to provide a pathway from amateur to professional participation in the Australian eSports scene. We have a modest eSports Arena on campus at Gardens point. We support CS:GO Overwatch League of Legends HearthStone DotA 2 and Rocket League as well as our student communities for each game.
+
+overwatch:
+  name: Overwatch
+  image: img/logos/overwatch.png
+  video: https://www.youtube-nocookie.com/embed/UEYp1RTvllM?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  genre: FPS
+  team: 6
+  about: Overwatch is a team-oriented multiplayer online first-person shooter video game created by Blizzard Entertainment. Overwatch has a unique lore and timeline with all the characters in the game having unique storylines and interactions with each other. Each character has a distinct personality and varying play styles which allows different team compositions to be created.
+  strategy: In each game each team has 6 people playing different characters in order to defend or attack an objective. These objectives differ from map to map. Assault maps have two points that the attacking team must capture in order to win the game with the defending team trying to stop them under a time limit. Escort objective maps usually requires the attacking team to deliver a payload to a certain point before time runs out while the defending team tries to stop them. Control maps require each team to capture and then control the point until the percentage indicator reaches 100%.
+
+leagueoflegends:
+  name: League of Legends
+  image: img/logos/league of legends.png
+  video: https://www.youtube-nocookie.com/embed/76cG7bcmmqM?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  genre: MOBA
+  team: 5
+  about: League of Legends is a multiplayer online battle arena which incorporates real-time strategy and roleplaying elements created by Riot Games. In it each character has unique lore and a unique storyline which connects to other characters in the game. Additionally it has its own universe called Runeterra with different characters coming from different parts of Runeterra such as Demacia and Noxus.
+  strategy: Every member of the team chooses a single character to play for the entirety of the game.  There are many different classes to choose from in League of Legends such as mage assassin tank support and marksman. Each class has a different role within the team. For example the support class is usually tasked with protecting and helping the main damage dealers of the team. Characters are able to level up and gain abilities by killing minions which also provides in-game gold to purchase items that increase character attributes such as damage and armour. Neutral monsters which give different buffs are able to be slain. The game is won by destroying the enemy team's structures such as towers then destroying the enemy team's nexus which is placed at their base.
+
+dota2:
+  name: DotA 2
+  image: img/logos/dota 2.png
+  video: https://www.youtube-nocookie.com/embed/tmn5HXW-3Wk?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  genre: MOBA
+  team: 5
+  about: Defense of the Ancients 2 or DotA 2 is a free to play multiplayer online battle arena which incorporates real-time strategy. There are over 100 playable characters known as 'heroes' which the player chooses at the beginning of the match. It is a widely popular video game with a widespread competitive scene with prize pools totalling millions of US dollars.
+  strategy: Each game of DotA 2 has 2 teams with 5 people on each team. There are two main classes which are carries and supports. The carries are the main damage dealers while the supports are more useful for their functionality and utility. Neutral monsters are able to be slain for additional buffs such as Roshan. Killing Roshan grants the team that killed it increased health and health regeneration as well as bonus gold. The main objective of every DotA2 match is to destroy the enemy team's 'Ancient' which is found in the base of each team and is defended by two turrets.
+
+rocketleague:
+  name: Rocket League
+  image: img/logos/rocket league.png
+  video: https://www.youtube-nocookie.com/embed/Vawwy2eu5sA?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  genre: Sports Game
+  team: 3
+  about: Rocket League is a team based game in which players use rocket-powered cars to play soccer. Each team consists of one to four players with the ultimate objective of scoring more goals than the opposing team. Due to it’s popularity and competitive nature Rocket League has been adopted as an eSport in which professional players participating through ESL and Major League Gaming matches along with Psyonix's own Rocket League Championship Series (RLCS).
+  strategy: Rocket League is a highly strategic game that needs focus and high communication. Communication is the back bone of a strong team and is a very important skill. Players who can communicate effectively make for strong teammates. Along with communication consistency is everything when it comes to Rocket League.  If players are able to be consistent at hitting shots and defending goals it builds onto the foundation of a successful team.
