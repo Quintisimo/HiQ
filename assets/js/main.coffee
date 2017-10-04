@@ -1,3 +1,6 @@
+#Real World Futures date
+countDownDate = new Date("Oct 17, 2017 10:00:00").getTime()
+
 # jQuery
 (($) ->
 
@@ -19,6 +22,23 @@
           return
         , 420000
         return
+
+    #Countdown to tournament
+    x = setInterval((->
+      now = new Date().getTime();
+      distance = countDownDate - now
+      days = Math.floor(distance / (1000 * 60 * 60 * 24))
+      hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
+      minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60))
+      seconds = Math.floor((distance % (1000 * 60)) / 1000)
+      $('#timer').text("#{days}d #{hours}h #{minutes}m #{seconds}s")
+
+      if distance < 0
+        clearInterval(x)
+        $('#timer').text('Expired')
+      return
+    ), 1000)
+
     return
   return
 ) jQuery

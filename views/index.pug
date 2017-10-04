@@ -3,7 +3,7 @@ html
 
   head
     title HiQ
-    meta(name="viewport" content="width=device-width, initial-scale=1")
+    meta(name='viewport' content='width=device-width, initial-scale=1')
     script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js')
     != css()
     != js()
@@ -20,6 +20,9 @@ html
     each game, index in data.games
       if index == 'qutesports'
         section(class=index)
+          #wrapper
+            img(src='img/rwf.png')
+            #timer
           .video-summary
             .summary
               h1 Arena Details
