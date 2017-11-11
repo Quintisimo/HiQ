@@ -1,4 +1,4 @@
-#Real World Futures date
+# Event date
 countDownDate = new Date("Oct 17, 2017 10:00:00").getTime()
 
 # jQuery
@@ -23,7 +23,7 @@ countDownDate = new Date("Oct 17, 2017 10:00:00").getTime()
         , 420000
         return
 
-    #Countdown to tournament
+    #Countdown to event
     x = setInterval((->
       now = new Date().getTime();
       distance = countDownDate - now
