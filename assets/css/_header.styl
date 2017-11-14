@@ -1,29 +1,32 @@
 header
-  fixed(right 0)
+  fixed(bottom 0)
   display flex
+  width 100%
   align-items center
-  justify-content center
+  justify-content space-around
   flex-wrap wrap
-  size(150px 100%)
+  margin-bottom 20px
 
   a
-    width 100px
+    display flex
+    justify-content center
+    flex-wrap wrap
+    width 200px
     padding 10px 30px
-    border-radius 10px
-    box-shadow 5px 5px 20px black
     background $orange
-    transition all ease-in-out 0.5s
+    transition all 0.5s ease-in-out
 
     img
-      display block
       size(100px)
 
+    /* TODO: Remove span if not required */
     span
-      display block
+      display none
+      size(100%)
       text-align center
       margin-top 20px
       font-size 20px
       font-weight 600
 
   a:hover, .is-selected
-    transform translateX(10px)
+    background green

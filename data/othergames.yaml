@@ -1,7 +1,7 @@
 # Games that currently dont have clubs
 csgo:
   image: img/logos/csgo.png
-  video: https://www.youtube-nocookie.com/embed/edYCtaNueQY?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  banner: img/banners/csgo.jpg
   year: 2012
   genre: FPS
   team: 5

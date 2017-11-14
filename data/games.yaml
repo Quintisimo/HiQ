@@ -1,15 +1,15 @@
 qutesports:
-  video: https://www.youtube-nocookie.com/embed/MEGereDezy0?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  banner: img/banners/qut esports.png
   graphics: GTX 1050 Ti
   computers: 14
   about: QUT eSports is Australia's first university endorsed eSports program. Our mission is to provide a pathway from amateur to professional participation in the Australian eSports scene. We have a modest eSports Arena on campus at Gardens point. We support CS:GO, Overwatch, League of Legends, HearthStone, DotA 2 and Rocket League as well as our student communities for each game.
-  goals: We have three pillers, community, competition and academics. We provide students with a pathway into esports and recognise high skilled players in the community. If you would like to improve your skills, you can attend training for a range of games which are run daily. Want a chance to showcase your skills? Come along to our monthly tournment, play against other competitive players and win various prize. If you would like to learn more come along to our arena and talk to the staff. Hpe to see you there. 
+  goals: We have three pillers, community, competition and academics. We provide students with a pathway into esports and recognise high skilled players in the community. If you would like to improve your skills, you can attend training for a range of games which are run daily. Want a chance to showcase your skills? Come along to our monthly tournment, play against other competitive players and win various prize. If you would like to learn more come along to our arena and talk to the staff. Hpe to see you there.
 
 # Games that are displayed in the sidebar
 overwatch:
   name: Overwatch
   image: img/logos/overwatch.png
-  video: https://www.youtube-nocookie.com/embed/UEYp1RTvllM?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  banner: img/banners/overwatch.jpg
   genre: FPS
   team: 6
   about: Overwatch is a team-oriented multiplayer online first-person shooter video game created by Blizzard Entertainment. It has a unique lore and timeline, with all the characters in the game having unique storylines and interactions with each other. Each character has a distinct personality and varying play styles which allows different team compositions to be created.
@@ -18,16 +18,16 @@ overwatch:
 leagueoflegends:
   name: League of Legends
   image: img/logos/league of legends.png
-  video: https://www.youtube-nocookie.com/embed/76cG7bcmmqM?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  banner: img/banners/league of legends.png
   genre: MOBA
   team: 5
   about: League of Legends is a multiplayer online battle arena which incorporates real-time strategy and roleplaying elements created by Riot Games. In it each character has unique lore and a unique storyline which connects to other characters in the game. Additionally it has its own universe called Runeterra with different characters coming from different parts of Runeterra such as Demacia and Noxus.
-  strategy: Every member of the team chooses a single character to play for the entirety of the game.  There are many different classes to choose from, such as mage assassin tank support and marksman. Each class has a different role within the team. For example, the support class is usually tasked with protecting and helping the main damage dealers of the team. Characters are able to level up and gain abilities by killing minions which also provides in-game gold to purchase items that increase their attributes such as damage and armour. Neutral monsters which give different buffs are able to be slain. The game is won by destroying the enemy team's structures such as towers then destroying the enemy team's nexus which is placed at their base.
+  strategy: Every member of the team chooses a character to play for the entirety of the game.  There are many different classes to choose from, such as mage assassin tank support and marksman. Each class has a different role within the team. For example, the support class is usually tasked with protecting and helping the main damage dealers of the team. Characters are able to level up and gain abilities by killing minions which also provides in-game gold to purchase items that increase their attributes such as damage and armour. Neutral monsters which give different buffs are able to be slain. The game is won by destroying the enemy team's structures such as towers then destroying the enemy team's nexus which is placed at their base.
 
 dota2:
   name: DotA 2
   image: img/logos/dota 2.png
-  video: https://www.youtube-nocookie.com/embed/tmn5HXW-3Wk?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  banner: img/banners/dota 2.jpg
   genre: MOBA
   team: 5
   about: Defense of the Ancients 2 or DotA 2 is a free to play multiplayer online battle arena which incorporates real-time strategy. There are over 100 playable characters known as 'heroes' which the player chooses at the beginning of the match. It is a widely popular game with a widespread competitive scene with prize pools totalling millions of US dollars.
@@ -36,7 +36,7 @@ dota2:
 hearthstone:
   name: Hearthstone
   image: img/logos/hearthstone.png
-  video: https://www.youtube-nocookie.com/embed/QdXl3QtutQI?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  banner: img/banners/hearthstone.jpg
   year: 2014
   genre: Collectible Card Game
   team: 1
@@ -46,7 +46,7 @@ hearthstone:
 rocketleague:
   name: Rocket League
   image: img/logos/rocket league.png
-  video: https://www.youtube-nocookie.com/embed/Vawwy2eu5sA?rel=0&amp&mute=1;controls=0&amp;showinfo=0
+  banner: img/banners/rocket league.jpg
   genre: Sports Game
   team: 3
   about: Rocket League is a team based game in which players use rocket-powered cars to play soccer. Each team consists of one to four players with the ultimate objective of scoring more goals than the opposing team. Due to it’s popularity and competitive nature Rocket League has been adopted as an eSport in which professional players participating through ESL and Major League Gaming matches along with Psyonix's own Rocket League Championship Series (RLCS).
