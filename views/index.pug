@@ -14,16 +14,14 @@ html
         if index != 'qutesports'
           a(class=index)
             img(src=game.image)
-            span=game.name
     
     // Loops thorugh each games in games.yaml
     each game, index in data.games
       if index == 'qutesports'
         section(class=index)
           //- #wrapper
-          //-   img(src='img/rwf.png')
           //-   #timer
-          .video-summary
+          .game-summary
             .summary
               h1 Arena Details
               h2 Number of Computers: #{game.computers}
@@ -37,7 +35,7 @@ html
             p=game.goals
       else
         section.games(class=index)
-          .video-summary
+          .game-summary
             .summary
               h1 Game Details
               h2 Genre: #{game.genre}
