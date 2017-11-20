@@ -11,7 +11,7 @@ html
   body
     header
       each game, index in data.games
-        if index != 'qutesports'
+        if index != 'qutesports' && game.club == true
           a(class=index)
             img(src=game.image)
     
@@ -34,16 +34,17 @@ html
             p=game.about
             p=game.goals
       else
-        section.games(class=index)
-          .game-summary
-            .summary
-              h1 Game Details
-              h2 Genre: #{game.genre}
-              h2 Team Size: #{game.team}
-              h2 Avaliable to play at QUT eSports
-              h2 Location: X-224
-            img(src=game.banner)
-          .game-details
-            h1 About #{game.name}
-            p=game.about
-            p=game.strategy
+        if game.club == true
+          section.games(class=index)
+            .game-summary
+              .summary
+                h1 Game Details
+                h2 Genre: #{game.genre}
+                h2 Team Size: #{game.team}
+                h2 Avaliable to play at QUT eSports
+                h2 Location: X-224
+              img(src=game.banner)
+            .game-details
+              h1 About #{game.name}
+              p=game.about
+              p=game.strategy

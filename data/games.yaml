@@ -7,6 +7,7 @@ qutesports:
 
 # Games that are displayed in the sidebar
 overwatch:
+  club: true
   name: Overwatch
   image: img/logos/overwatch.png
   banner: img/banners/overwatch.jpg
@@ -16,6 +17,7 @@ overwatch:
   strategy: In a game each team has 6 people playing different characters in order to defend or attack an objective. These objectives differ from map to map. Assault maps have two points that the attacking team must capture in order to win the game with the defending team trying to stop them under a time limit. Escort maps usually requires the attacking team to deliver a payload to a certain point before time runs out while the defending team tries to stop them. Control maps require each team to capture and then control the point until the percentage indicator reaches 100%.
 
 leagueoflegends:
+  club: true
   name: League of Legends
   image: img/logos/league of legends.png
   banner: img/banners/league of legends.png
@@ -25,6 +27,7 @@ leagueoflegends:
   strategy: Every member of the team chooses a character to play for the entirety of the game.  There are many different classes to choose from, such as mage assassin tank support and marksman. Each class has a different role within the team. For example, the support class is usually tasked with protecting and helping the main damage dealers of the team. Characters are able to level up and gain abilities by killing minions which also provides in-game gold to purchase items that increase their attributes such as damage and armour. Neutral monsters which give different buffs are able to be slain. The game is won by destroying the enemy team's structures such as towers then destroying the enemy team's nexus which is placed at their base.
 
 dota2:
+  club: true
   name: DotA 2
   image: img/logos/dota 2.png
   banner: img/banners/dota 2.jpg
@@ -34,6 +37,7 @@ dota2:
   strategy: In a game each team has 5 plays. There are two main classes which are carries and supports. The carries are the main damage dealers while the supports are more useful for their functionality and utility. Neutral monsters are able to be slain for additional buffs such as Roshan. Killing Roshan grants the team that killed it increased health and health regeneration as well as bonus gold. The main objective is to destroy the enemy team's 'Ancient' which is found in the base of each team and is defended by two turrets.
 
 hearthstone:
+  club: true
   name: Hearthstone
   image: img/logos/hearthstone.png
   banner: img/banners/hearthstone.jpg
@@ -43,7 +47,18 @@ hearthstone:
   about: Hearthstone is a free-to-play strategy card game from Blizzard Entertainment. Although the characters in Hearthstone are from Warcraft (also a game by Blizzard Entertainment) it is completely beginner friendly with tutorials and explanations for each card and character.
   strategy: Each game uses a deck of cards that the player has constructed using cards they receive in-game. Each card has attack and defense points which are used to either attack or defend the hit points of the player. Different cards have different uses such as spell cards and 'Secret' cards which are hidden effects that are triggered when specific events occurs. Additionally, each card has a tooltip which explains what the card does and what effect it has.
 
+csgo:
+  club: false
+  image: img/logos/csgo.png
+  banner: img/banners/csgo.jpg
+  year: 2012
+  genre: FPS
+  team: 5
+  about: Counter Strike Global Offensive is a team based first-person shooter game created by Valve and run through Steam. It has a high skill cap and is a require great mechanical skill.
+  strategy: Each team has 5 players with one team being 'Terrorist' and the other being 'Counter-Terrorist'. The objective of the Terrorist team is to plant a bomb at one of the two bomb sites more commonly referred to as A or B. The Counter-Terrorist team must prevent the Terrorist team from planting the bomb and if the bomb is planted then the Counter-Terrorist team must defuse the bomb before the time in the round runs out. Each team can choose a variety of guns at the start of each round as well as being able to buy supplementary items such as flash-bang grenades and explosive grenades. Counter-Terrorists are able to buy bomb defusal kits with in game currency earned during the game to reduce the amount of time taken to defuse a bomb. In a competitive match the victorious team is the team which wins 16 rounds first with each round being relatively short.
+
 rocketleague:
+  club: true
   name: Rocket League
   image: img/logos/rocket league.png
   banner: img/banners/rocket league.jpg
