@@ -1,9 +1,8 @@
 section
-  absolute(top 0 left 0)
+  absolute(top 0, left 0)
 
   h1
     font-size 50px
-
 
   .game-summary
     display flex
@@ -12,7 +11,7 @@ section
     margin-top 20px
 
     img
-      size(740px 412px)
+      size(740px, 412px)
 
     .summary
       h2
@@ -20,6 +19,7 @@ section
         width 600px
         padding 10px 15px
         background $orange
+        shadow-stroke($dark-blue)
 
   .game-details
     margin 0 30px
@@ -31,12 +31,3 @@ section
 
 .games
   display none
-
-.qutesports
-  #wrapper
-    vertically-align()
-
-    #timer
-      font-size 100px
-      text-align center
-      color $orange

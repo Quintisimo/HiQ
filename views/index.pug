@@ -14,13 +14,13 @@ html
         if index != 'qutesports' && game.club == true
           a(class=index)
             img(src=game.image)
+
+    #background
     
     // Loops thorugh each games in games.yaml
     each game, index in data.games
       if index == 'qutesports'
         section(class=index)
-          //- #wrapper
-          //-   #timer
           .game-summary
             .summary
               h1 Arena Details

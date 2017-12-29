@@ -13,7 +13,15 @@ body, h1, p
 body
   font-family 'uvf_bourgeois_med'
   overflow hidden
-  background $dark-blue
+
+  #background
+    fixed()
+    size(100%)
+    z-index -1
+    gradient($dark-blue, $orange)
 
   h1, h2, span
     font-family 'nevisbold'
+
+  h1, h2
+    shadow-stroke($orange)
