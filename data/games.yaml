@@ -1,11 +1,12 @@
+# Organisation information displayed on page load
 qutesports:
   banner: img/banners/qut esports.png
   graphics: GTX 1050 Ti
   computers: 14
   about: QUT eSports is Australia's first university endorsed eSports program. Our mission is to provide a pathway from amateur to professional participation in the Australian eSports scene. We have a modest eSports Arena on campus at Gardens point. We support CS:GO, Overwatch, League of Legends, HearthStone, DotA 2 and Rocket League as well as our student communities for each game.
-  goals: We have three pillers, community, competition and academics. We provide students with a pathway into esports and recognise high skilled players in the community. If you would like to improve your skills, you can attend training for a range of games which are run daily. Want a chance to showcase your skills? Come along to our monthly tournment, play against other competitive players and win various prize. If you would like to learn more come along to our arena and talk to the staff. Hpe to see you there.
+  goals: We have three pillars, community, competition and academics. We provide students with a pathway into esports and recognise high skilled players in the community. If you would like to improve your skills, you can attend training for a range of games which are run daily. Want a chance to showcase your skills? Come along to our monthly tournment, play against other competitive players and win various prize. If you would like to learn more come along to our arena and talk to the staff. Hope to see you there.
 
-# Games that are displayed in the sidebar
+# Games that are displayed in the bottom bar if the club exists
 overwatch:
   club: true
   name: Overwatch
