@@ -6,12 +6,13 @@ section
 
   .game-summary
     display flex
-    justify-content space-around
+    justify-content space-between
     align-items center
-    margin-top 20px
+    margin 20px
 
     img
-      size(740px 412px)
+      size(630px 350px)
+      border-radius 5px
 
     .summary
       h2
@@ -19,14 +20,20 @@ section
         width 600px
         padding 10px 15px
         background $orange
-        shadow-stroke($dark-blue)
+        border-radius 5px
 
   .game-details
-    margin 0 30px
+    margin 20px
+    background rgba($light-blue, 0.6)
+    border-radius 5px
+    padding 5px
+
+    h1
+      padding  0 10px
 
     p
       font-size 28px
-      padding 10px 0
+      padding 10px
       text-align justify
 
 .games
