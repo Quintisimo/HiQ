@@ -11,6 +11,8 @@ countDownDate = new Date("Oct 17, 2017 10:00:00").getTime()
       $this = $(this)
       if !($this.hasClass('is-selected'))
         className = 'section.' + $this.attr('class')
+        className = className.replace(/ /g, '.')
+        console.log className
         $('a').removeClass('is-selected')
         $('section').fadeOut()
         $this.addClass('is-selected')
