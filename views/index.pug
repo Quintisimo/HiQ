@@ -13,7 +13,7 @@ html
       each game in contentful.games
         if game.club == true
           a(class=game.name)
-            img(src!=asset(game.logo))
+            img(src!=asset(game.logo, {w: 100, h: 100}))
 
     #background
 
@@ -26,7 +26,7 @@ html
           h2 Graphics Cards: GTX 1050 Ti
           h2 Training: Mon-Fri from 4-6pm 
           h2 Location: X-224
-        img(src!=asset(contentful.sitedefaults[0].poster))
+        img(src!=asset(contentful.sitedefaults[0].poster, {w: 630, h: 350}))
       .game-details
         h1 About Us
         !=markdown(contentful.sitedefaults[0].about)
@@ -42,7 +42,7 @@ html
               h2 Team Size: #{game.team}
               h2 Avaliable to play at QUT eSports
               h2 Location: X-224
-            img(src!=asset(game.poster))
+            img(src!=asset(game.poster, {w: 630, h: 350}))
           .game-details
             h1 About #{game.name}
             p=game.about
